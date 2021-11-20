@@ -1,14 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define rep(i, n) for (int i = 0; i < (int)(n); i++)
 
 int main() {
-    int x, y;
-    cin >> x >> y;
-    if (x != y ) {
-        cout << "x not y" << endl;
-    }
-
-    if ((x == y )) {
-        cout << "x is y" << endl;
+    int cin >> a;
+    rep(i, 3) {
+        cout << "end" << endl;
+        cout << "end" << endl;
     }
 }
